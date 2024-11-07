@@ -140,37 +140,35 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Saasy.lol",
-      href: "https://saasylol.vercel.app/",
+      title: "RateYourcustomer",
+      href: "https://rateyourcustomer.vercel.app/",
       dates: "August 2024 - September 2024",
       active: true,
       description:
         "Developed JUSTIFIED, a web application that provides legal advice based on Indian laws and the Indian Penal Code (IPC) through an intuitive and user-friendly interface. Integrated LangChain.js with FAISS to deliver real-time, accurate legal guidance, enhancing the relevance of responses.",
       technologies: [
         "React.js",
-        "Typescript",
-        "Firebase",
+        "Kafka",
+        "Cronjobs",
         "Gemini API",
         "TailwindCSS",
         "Framer Motion",
         "Node.js",
         "Express",
-        "FAISS",
-        "LangChain.js",
       ],
       links: [
         {
           type: "Website",
-          href: "https://github.com/MET4L-DS/AskMe",
+          href: "https://github.com/manancode/rateourcustomer",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://law-gpt.netlify.app/",
+          href: "https://rateyourcustomer.vercel.app",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/sassy.png",
+      image: "/rateyourcustomer.png",
       video: "",
     },
     {
@@ -193,7 +191,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/rateyourcustomer.png",
+      image: "/sassy.png",
       video: "",
     },
     {
