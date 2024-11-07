@@ -3,15 +3,15 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Manan Arora",
-  initials: "PB",
+  initials: "MA",
   url: "https://github.com/Manancode",
-  location: "Guwahati, Assam",
+  location: "Ghaziabad. Uttar Pradesh",
   locationLink: "",
   description:
     "Full-stack Deve with an experience of 2 years. Find me on GitHub,LinkedIn and Twitter, always sharing new projects and insights.",
   summary:
     "In 2024, I am a final-year Computer Science student focused on full-stack development, AI, and backend technologies. I’ve interned at Littlebox, conducted research at IIT Guwahati, and built various innovative projects. I’m passionate about creating impactful solutions and always seeking new challenges.",
-  avatarUrl: "/profile3.jpeg",
+  avatarUrl: "/dp.jpeg",
   skills: [
     "React",
     "Next.js",
@@ -53,7 +53,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/parijat-bhattacharjee-97741a177/",
+        url: "https://www.linkedin.com/in/manancode",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -108,12 +108,12 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Assam Engineering College",
-      href: "https://aec.ac.in/",
-      degree: "B.Tech in Computer Science and Engineering",
-      logoUrl: "/aec.png",
-      start: "2021",
-      end: "2025",
+      school: "National Institute of Technology Hamirpur",
+      href: "https://nith.ac.in/",
+      degree: "Himachal Pradesh",
+      logoUrl: "/nithlogo.png",
+      start: "2023",
+      end: "2027",
     },
   ],
   projects: [
@@ -127,21 +127,21 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://kanha-gpt.netlify.app/",
+          href: "/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/POBOROJO/Kanha-GPT",
+          href: "https://github.com/manancode/cryptobox",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/krishna.jpg",
+      image: "/koshbox.jpeg",
       video: "",
     },
     {
-      title: "Saasy",
-      href: "https://law-gpt.netlify.app/",
+      title: "Saasy.lol",
+      href: "https://saasylol.vercel.app/",
       dates: "August 2024 - September 2024",
       active: true,
       description:
@@ -170,12 +170,12 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/justified.webp",
+      image: "/sassy.png",
       video: "",
     },
     {
       title: "Rateyourcustomer",
-      href: "https://virtualr-nine.vercel.app/",
+      href: "https://rateyourcustomer.vercel.app/",
       dates: "June 2024 - August 2024",
       active: true,
       description:
@@ -193,7 +193,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/VR.jpeg",
+      image: "/rateyourcustomer.png",
       video: "",
     },
     {
@@ -230,26 +230,26 @@ export const DATA = {
     {
       title: "IIT Kanpur E-summit'23",
       dates: "Oct 13th - 15th, 2023",
-      location: "Kanpur",
+      location: "IIT Kanpur",
       description:
-        "Secured the 2nd Position in HackVita 2.0, Developed an application to educate and empower individuals to make environmentally conscious choices in their daily lives.",
-      image: "/hack-vita.jpeg",
+        "Secured the 2nd Position E-summit'23",
+      image: "/esummit.jpeg",
       links: [
         {
           title: "Github",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/POBOROJO/EcoFront",
+          href: "https://ecelliitk.org/esummit/",
         },
       ],
     },
     {
       title: "Electrothon 6.0",
       dates: "August 23rd - 24th, 2024",
-      location: "Hamirpur , Himachal Pradesh",
+      location: "NIT Hamirpur",
       description:
-        "Secured 2nd position as part of a team for presenting an innovative solution in Ideavision competition under the Institution's Innovation Council.",
+        "Made a tech application to connect ambulance in one tap.",
       icon: "public",
-      image: "/ideavision.jpeg",
+      image: "/electrothon.jpeg",
       links: [
         {
           title: "Link",
@@ -260,11 +260,11 @@ export const DATA = {
     },
     {
       title: "Stellarscape Explorer Hackathon",
-      dates: "May 2024 - August 2024",
-      location: "Remote",
+      dates: "Feb 2024 - March 2024",
+      location: "NIT Hamirpur",
       description:
         "Was part of a team in developing the backend for a web application that helps people find and book flights for their trips.",
-      image: "/girl.jpeg",
+      image: "/stellarescape.webp",
       links: [
         {
           title: "Link",
@@ -284,11 +284,11 @@ export const DATA = {
     },
     {
       title: "Rannit-E",
-      dates: "January 23rd, 2022",
-      location: "Guwahati, Assam",
+      dates: "March 19th, 2024",
+      location: "NIT Durgapur",
       description:
-        "Secured 1st position in circuit building competition in the 'CIRCUIT UNTANGLED' event.",
-      image: "robo.jpg",
+        "",
+      image: "rannite.webp",
       // win: "Best Data Hack",
       links: [
         {
