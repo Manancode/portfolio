@@ -145,7 +145,7 @@ export const DATA = {
       dates: "August 2024 - September 2024",
       active: true,
       description:
-        "Developed JUSTIFIED, a web application that provides legal advice based on Indian laws and the Indian Penal Code (IPC) through an intuitive and user-friendly interface. Integrated LangChain.js with FAISS to deliver real-time, accurate legal guidance, enhancing the relevance of responses.",
+        "Developed Rateyourcustomer, a saas application that rates your customer based on their activity such as spending habits and much more. Made a Webhook architect from scratch to transfer users data safely.",
       technologies: [
         "React.js",
         "Kafka",
@@ -159,35 +159,35 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://github.com/manancode/rateourcustomer",
+          href: "https://rateyourcustomer.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://rateyourcustomer.vercel.app",
+          href: "https://github.com/manancode/rateourcustomer",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/rateyourcustomer.png",
+      image: "/rate.png",
       video: "",
     },
     {
-      title: "Rateyourcustomer",
+      title: "Saasy.lol",
       href: "https://rateyourcustomer.vercel.app/",
       dates: "June 2024 - August 2024",
       active: true,
       description:
-        "Developed the frontend for VirtualR, a Virtual Reality tool designed to empower developers in building immersive VR applications.",
+        "Developed a saas that helps in marketing of your product using reddit. FIlters out related posts/users/subreddits . Used Tensorflow and AI-models to actually judge the sentiment of a conversation and ultimately helps founders to find leads for their product.",
       technologies: ["JavaScript", "React.js", "TailwindCSS"],
       links: [
         {
           type: "Website",
-          href: "https://github.com/POBOROJO/PRACTICE/tree/main/tailwind/practice1",
+          href: "https://saasylol.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://virtualr-nine.vercel.app/",
+          href: "https;//github.com/manancode/saasy",
           icon: <Icons.github className="size-3" />,
         },
       ],
