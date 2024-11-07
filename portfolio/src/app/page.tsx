@@ -213,8 +213,7 @@ export default function Page() {
                   backgrounds come together to build innovative solutions in
                   just 2-3 days. These experiences have shown me how driven
                   individuals can bring impactful ideas to life in a short
-                  amount of time, and I look forward to continuing this journey
-                  as I complete my final year.
+                  amount of time
                 </p>
               </div>
             </div>

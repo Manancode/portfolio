@@ -8,9 +8,9 @@ export const DATA = {
   location: "Ghaziabad. Uttar Pradesh",
   locationLink: "",
   description:
-    "Full-stack Deve with an experience of 2 years. Find me on GitHub,LinkedIn and Twitter, always sharing new projects and insights.",
-  summary:
-    "In 2024, I am a final-year Computer Science student focused on full-stack development, AI, and backend technologies. I’ve interned at Littlebox, conducted research at IIT Guwahati, and built various innovative projects. I’m passionate about creating impactful solutions and always seeking new challenges.",
+    "Full-stack dev. Find me on GitHub, LinkedIn and Twitter.",
+  summary:"I am a full-stack software engineer, I love building software products that solves genuine problems of people. Founded some of the products in past [now pivoted] as a solopreneur. I also contribute to Open Source Projects.",
+  
   avatarUrl: "/dp.jpeg",
   skills: [
     "React",
@@ -112,8 +112,8 @@ export const DATA = {
       href: "https://nith.ac.in/",
       degree: "Himachal Pradesh",
       logoUrl: "/nithlogo.png",
-      start: "2023",
-      end: "2027",
+      start: "",
+      end: "",
     },
   ],
   projects: [
@@ -261,7 +261,7 @@ export const DATA = {
       dates: "Feb 2024 - March 2024",
       location: "NIT Hamirpur",
       description:
-        "Was part of a team in developing the backend for a web application that helps people find and book flights for their trips.",
+        "Won Track-1 where I developed a web3 dapp on the top of the sponsoring company",
       image: "/stellarescape.webp",
       links: [
         {
@@ -271,16 +271,7 @@ export const DATA = {
         },
       ],
     },
-    {
-      title: "Prasunethon",
-      dates: "August 12th, 2023",
-      location: "Guwahati, Assam",
-      description:
-        "Earned 1st position in the 'DSA Code War' event as part of a skilled team.",
-      image: "/codewar.jpeg",
-      links: [],
-    },
-    {
+     {
       title: "Rannit-E",
       dates: "March 19th, 2024",
       location: "NIT Durgapur",
