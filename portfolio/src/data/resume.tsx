@@ -73,7 +73,7 @@ export const DATA = {
       },
       "Download CV": {
         name: "Download Resume",
-        url: "/Parijat4.pdf",
+        url: "/",
         icon: Icons.download,
         navbar: true,
       },
@@ -112,8 +112,8 @@ export const DATA = {
       href: "https://nith.ac.in/",
       degree: "Himachal Pradesh",
       logoUrl: "/nithlogo.png",
-      start: "",
-      end: "",
+      start: "2023",
+      end: "2027",
     },
   ],
   projects: [
@@ -195,32 +195,32 @@ export const DATA = {
       video: "",
     },
     {
-      title: "GDSC Explore 4.0",
-      href: "https://gdsc-explore.xyz/",
-      dates: "April 2023 - June 2023",
+      title: "CleanTalk",
+      href: "/",
+      dates: "Oct 2024 - Nov 2024",
       active: true,
       description:
-        "I was the part of the frontend team in building this website, this was the largest developers fest in the North Eastern India.",
+        "To develop a voice recording software that automatically removes filler words like 'uhhs' and 'uhmms' to enhance the clarity and attentiveness of online presentations.",
       technologies: [
-        "JavaScript",
+        "Nodejs",
         "React.js",
         "TailwindCSS",
-        "Cloudinary",
-        "SCSS",
+        "WHISPERAPI",
+        "ffmpeg",
       ],
       links: [
         {
           type: "Website",
-          href: "https://gdsc-explore.xyz/",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/gdsc-nits-org/gdsc-explore-4.0/tree/main",
+          href: "https://github.com/voice-filter-app",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/gdsc.webp",
+      image: "/cleantalk.png",
       video: "",
     },
   ],
@@ -252,7 +252,7 @@ export const DATA = {
         {
           title: "Link",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://drive.google.com/file/d/13wLSA92mlpIo6es7DD7BlmaeRjiujNk5/view",
+          href: "/",
         },
       ],
     },
@@ -261,13 +261,13 @@ export const DATA = {
       dates: "Feb 2024 - March 2024",
       location: "NIT Hamirpur",
       description:
-        "Won Track-1 where I developed a web3 dapp on the top of the sponsoring company",
+        "Won Track-1 where I developed a web3 dapp over layer-2 blockchain Andromeda",
       image: "/stellarescape.webp",
       links: [
         {
           title: "Link",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://gssoc.girlscript.tech/",
+          href: "/",
         },
       ],
     },
@@ -283,7 +283,7 @@ export const DATA = {
         {
           title: "Link",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://drive.google.com/file/d/1oKUZfQFaxRkpK38KR3qNlkD5IvQn06CB/view",
+          href: "/",
         },
       ],
     },
